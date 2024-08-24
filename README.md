@@ -1,4 +1,3 @@
-```markdown
 # Podcast, Desvendando o futuro.
 
 ## 📒 Descrição
@@ -33,7 +32,6 @@ Um podcast curto(tá mais para um vídeo), falando sobre ciência cidad um tema 
 
 ## 🚀 Resultados
 [Clique_aqui](https://youtu.be/ckN3W2NQq8k)
-Não sei fazer esse carinha funcionar...
 
 ## 💭 Reflexão (Opcional)
     Edição de vídeo dá trabalho...
