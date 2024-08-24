@@ -32,7 +32,7 @@ Um podcast curto(tá mais para um vídeo), falando sobre ciência cidad um tema 
     Então finalmente cheguei no processo de edição, o que me foi mais custoso e cansativo.
 
 ## 🚀 Resultados
-    - [Clique aqui](https://youtu.be/ckN3W2NQq8k)
+[Clique aqui](https://youtu.be/ckN3W2NQq8k)
 
 ## 💭 Reflexão (Opcional)
     Edição de vídeo dá trabalho...
